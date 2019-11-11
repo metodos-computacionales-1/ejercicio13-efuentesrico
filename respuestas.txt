@@ -1,0 +1,9 @@
+------> Pregunta ejercicio 1: Efectivamente, cada variable está almacenada en distintos espacios de la memoria.
+
+------> Pregunta ejercicio 2: El código con   "int addition(const int &a, int b)"  NO COMPILA debido a que, al escribir en la función que                                   "a=r", se está alterando la dirección de memoria de la variable a (&a), lo cual es impedido por la declaración                                 "const &a".
+
+
+
+------> Pregunta ejercicio 1: 
+------> Pregunta ejercicio 1: 
+------> Pregunta ejercicio 1: 
