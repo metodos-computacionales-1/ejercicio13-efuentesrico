@@ -4,6 +4,4 @@
 
 
 
-------> Pregunta ejercicio 1: 
-------> Pregunta ejercicio 1: 
-------> Pregunta ejercicio 1: 
+------> Pregunta ejercicio 4: Si las funciones se llaman igual, equivaldría a tener una "doble función" llamada de la misma forma, así que el sistema ejecuta de manera diferente dependiendo de si los datos de entrada son double o ints.
